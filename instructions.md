@@ -23,6 +23,8 @@ I recommend you to use Microsoft excel for editing the Components CSV file  and 
 Connect the analog data source to A0 and A1 of ADS1115 Card and not to any other analog port
 The current version of Peak works read data only from these two ports.
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ## How to Run Peak Works on Rpi and Analyze peaks
 
 Step 1 : Press the **"New"** Icon the first icon on the Icon Bar (This will not display anything) so Just press once and leave.
