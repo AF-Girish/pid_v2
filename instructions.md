@@ -10,8 +10,11 @@ Review this table before you start. Make sure you have the Retention time agains
 
 
 (a) The  information  which is displayed in the Components table  is stored in Components.csv file
+
 (b) You can edit using Microsoft Execl.
+
 (c) Current version of Peak works allow you to edit the Retention time for each compound, but does not save that information back into csv file.
+
 (d) So if  you want to modify the Mapping of Compound names with Peak Retention time, you need to edit the CSV file
 
 I recommend you to use Microsoft excel for editing the Components CSV file  and not to edit manually using text editor, as there is a chance of making errors.
