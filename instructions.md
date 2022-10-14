@@ -20,7 +20,7 @@ The current version of Peak works read data only from these two ports.
 
 ## How to Run Peak Works on Rpi and Analyze peaks
 
-Step 1 : Press the "New" Icon the first icon on the Icon Bar (This will not display anything) so Just press once and leave.
+Step 1 : Press the *"New"* Icon the first icon on the Icon Bar (This will not display anything) so Just press once and leave.
                (Internally it resets everything for new Run)
 
 Step 2 : Click on Method ->Detector A (This will give you a pop up)
