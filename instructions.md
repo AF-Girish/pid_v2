@@ -1,9 +1,9 @@
-# Instruction
+# Instructions for Running Peak Works on Raspberry Pi 4
 
-I will give you the steps to run Peak works on Raspberry Pi. Make sure you read all the following 16 steps before you start run.
+ Make sure you read all the following 16 steps before you start run.
 
-Before you start
-
+##Before you start
+### Components Table
 Core of analysis done by Peak works on Rpi   is based on  Components Table. You can see this from Methods->Components Mapping of Retention time   to compounds is programmed here.  Review this table before you start. Make sure you have the Retention time against each compound and windows times are recorded properly.
 
 
@@ -13,6 +13,10 @@ Core of analysis done by Peak works on Rpi   is based on  Components Table. You 
 (d) So if  you want to modify the Mapping of Compound names with Peak Retention time, you need to edit the CSV file
 
 I recommend you to use Microsoft excel for editing the Components CSV file  and not to edit manually using text editor, as there is a chance of making errors.
+
+### Electrical Connections
+Connect the analog data source to A0 and A1 of ADS1115 Card and not to any other analog port
+The current version of Peak works read data only from these two ports.
 
 ## How to Run Peak Works on Rpi and Analyze peaks
 
