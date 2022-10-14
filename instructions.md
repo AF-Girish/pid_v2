@@ -4,7 +4,9 @@
 
 ## Before you start
 ### Components Table
-Core of analysis done by Peak works on Rpi   is based on  Components Table. You can see this from Methods->Components Mapping of Retention time   to compounds is programmed here.  Review this table before you start. Make sure you have the Retention time against each compound and windows times are recorded properly.
+Core of analysis done by Peak works on Rpi   is based on  Components Table. You can see this from **Methods->Components** 
+Mapping of Retention time   to compounds is programmed here.  
+Review this table before you start. Make sure you have the Retention time against each compound and windows times are recorded properly.
 
 
 (a) The  information  which is displayed in the Components table  is stored in Components.csv file
